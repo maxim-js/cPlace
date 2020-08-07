@@ -1,0 +1,13 @@
+.list-group {
+    min-width: 250px;
+    margin-bottom: 5%;
+}
+
+.items__display {
+    flex: 2;
+    margin-right: 2%;
+}
+.btn-main {
+    display: flex;
+    justify-content: center;
+}

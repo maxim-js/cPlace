@@ -1,0 +1,9 @@
+.container {
+    max-width: 1400px;
+}
+p {
+  font-size: 120%;
+}
+.main__flexbox {
+  display: flex;
+}
