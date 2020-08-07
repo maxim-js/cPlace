@@ -1,5 +1,12 @@
 .tuning {
     flex: 3;
-    width: 500px;
     background-color: #dadada;
+}
+
+.tuning__title {
+    margin: 2%;
+    font-size: 150%;
+}
+.input-group {
+    margin: 2%;
 }
